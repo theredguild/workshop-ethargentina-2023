@@ -1,17 +1,17 @@
-# Intro a testing y seguridad de smart contracts con Foundry @ HackIT/BA
+# Intro a la seguridad de smart contracts en Foundry @ EthereumArgentina
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-Repositorio del taller "Intro a testing y seguridad de smart contracts con Foundry" dictado el 30 de Marzo del 2023 para [HackIT/BA>](https://hackitba.com/).
+Repositorio del taller "Intro a la seguridad de smart contracts en Foundry" dictado presencialmente el 19 de Agosto del 2023 para [EthereumArgentina](https://ethereumargentina.xyz/).
 
 ## Tabla de Contenidos
 
 - [Introducción](#introducción)
 - [Recorrido](#recorrido)
-- [Requisitos preliminares](#Requisitos-preliminares)
-- [Preparación](#Preparación)
-- [Uso](#Uso)
-- [Aviso importante](#Aviso-importante)
+- [Requisitos preliminares](#requisitos-preliminares)
+- [Preparación](#preparación)
+- [Uso](#uso)
+- [Aviso importante](#aviso-importante)
 
 ## Introducción 
 
@@ -78,14 +78,14 @@ cast --version
 
 4. Clonar este repositorio a tu ambiente de desarrollo
 ```bash
-git clone https://github.com/theredguild/workshop-hackitba.git
+git clone https://github.com/theredguild/workshop-ethargentina-2023.git
 ```
 
 ## Probando el setup
 
 Asegurarse de estar en el directorio del proyecto
 ```bash
-cd workshop-hacktiba
+cd workshop-ethargentina-2023
 ```
 
 Podés ejecutar los tests con el comando:
@@ -106,6 +106,6 @@ Para saber más sobre el comando `forge test`, podés referirte a [la documentac
 
 ## Aviso importante
 
-Este repositorio ha sido creado para ser utilizado con fines educacionales, como acompañamiento de un taller dictado en la edición 2023 de [HackIT/BA](https://hackitba.com/).
+Este repositorio ha sido creado para ser utilizado con fines educacionales, como acompañamiento de un taller dictado en la edición 2023 de [EthereumArgentina](https://ethereumargentina.org/).
 
 No debe ser considerado ni reproducido sin el contexto brindado durante el taller. Todo el código incluido tiene errores y vulnerabilidades de seguridad.
