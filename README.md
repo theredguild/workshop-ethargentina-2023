@@ -91,7 +91,7 @@ cd workshop-ethargentina-2023
 Podés ejecutar los tests con el comando:
 
 ```bash
-forge test --ffi
+forge test
 ```
 
 Si bien vas a ver que ya hay código dentro de este repositorio, NO está completo. Iremos explicándolo y mejorándolo durante el taller.
