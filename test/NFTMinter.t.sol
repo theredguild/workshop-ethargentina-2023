@@ -211,5 +211,4 @@ contract NFTMintersTest is Test/*, IERC721Receiver*/ {
         cmd[1] = "scripts/.run";
         result = vm.ffi(cmd);
     }
-
 }
