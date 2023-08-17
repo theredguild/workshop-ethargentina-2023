@@ -204,4 +204,12 @@ contract NFTMintersTest is Test/*, IERC721Receiver*/ {
     // uint256 total = 20
     // r = points/total * 100 > 20
     // r = points * 100 / total > 20
+
+    function test_auxiliaryCalculations() public returns (bytes memory result) {
+        string[] memory cmd = new string[](2);
+        cmd[0] = "python3";
+        cmd[1] = "scripts/.run";
+        result = vm.ffi(cmd);
+    }
+
 }
