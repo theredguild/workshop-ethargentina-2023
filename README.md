@@ -1,8 +1,8 @@
-# Intro a la seguridad de smart contracts en Foundry @ EthereumArgentina
+# Intro a la seguridad de smart contracts en Foundry @ Ethereum Argentina
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-Repositorio del taller "Intro a la seguridad de smart contracts en Foundry" dictado presencialmente el 19 de Agosto del 2023 para [EthereumArgentina](https://ethereumargentina.xyz/).
+Repositorio del taller "Intro a la seguridad de smart contracts en Foundry" dictado presencialmente el 19 de Agosto del 2023 para [Ethereum Argentina](https://ethereumargentina.org/).
 
 ## Tabla de Contenidos
 
@@ -67,13 +67,13 @@ curl -L https://foundry.paradigm.xyz | bash
 
 ```bash
 forge --version
-> forge 0.2.0 (5182f43 2023-03-24T00:12:06.292809241Z)
+> forge 0.2.0 (06a17bf 2023-08-19T00:14:54.453240995Z)
 
 chisel --version
-> chisel 0.1.1 (5182f43 2023-03-24T00:12:34.566977743Z)
+> chisel 0.2.0 (06a17bf 2023-08-19T00:14:54.457250529Z)
 
 cast --version
-> cast 0.2.0 (5182f43 2023-03-24T00:12:06.292809241Z)
+> cast 0.2.0 (06a17bf 2023-08-19T00:14:54.444477665Z)
 ```
 
 4. Clonar este repositorio a tu ambiente de desarrollo
@@ -106,6 +106,6 @@ Para saber más sobre el comando `forge test`, podés referirte a [la documentac
 
 ## Aviso importante
 
-Este repositorio ha sido creado para ser utilizado con fines educacionales, como acompañamiento de un taller dictado en la edición 2023 de [EthereumArgentina](https://ethereumargentina.org/).
+Este repositorio ha sido creado para ser utilizado con fines educacionales, como acompañamiento de un taller dictado en la edición 2023 de [Ethereum Argentina](https://ethereumargentina.org/).
 
 No debe ser considerado ni reproducido sin el contexto brindado durante el taller. Todo el código incluido tiene errores y vulnerabilidades de seguridad.
